@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to Guess the Location AR Game 👋</h1>
+<h1>Welcome to Guess the Location AR Game 👋</h1>
+<img alt="LOGO" align="center" height="250" src="https://github.com/NitishGadangi/Guess-Location-Inside-Jntuh/blob/master/logo.jpg?raw=true" />
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="adsasd" target="_blank">
@@ -9,35 +10,37 @@
   </a>
 </p>
 
-> AR Game Built on Spark AR to deploy on Instagram as Filter
+#### AR Game Built on Spark AR to deploy on Instagram as Filter
+Each Instance a Random Clue will be popped up and User need to Guess the Location based on it.
 
-### 🏠 [Homepage](hdslkdjs)
+After 5 seconds of countdown Answer will be Displayed.
 
-### ✨ [Demo](adsdsa)
+All screens are trcacked on the User Face Co-ordinates as Face Tracking is Enabled.
 
-## Install
+### ✨ [Try the filter on Instagram](https://www.instagram.com/ar/787048095161541/)
 
-```sh
-Download SPARK AR and Open .arproj file to proceed
-```
+### 🏠 [Check out Cluesheet Here](https://nitishgadangi.github.io/QR_Hunt/)
 
-## Usage
+### 📱 [Checkout Android App Version of This Game](https://github.com/NitishGadangi/QR_Hunt)
 
-```sh
-Try on instagram filters
-```
+## Screenshots
+<table>
+    <tr>
+     <td><kbd><img src="./screenshots/one.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/two.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/three.jpeg"></kbd></td>
+    </tr>
+</table>
 
-## Author
+## How to Edit Files
 
-👤 **Nitish Gadangi**
-
-* Website: nitishgadangi.github.io
-* Github: [@NitishGadangi](https://github.com/NitishGadangi)
-* LinkedIn: [@NitishGadangi](https://linkedin.com/in/NitishGadangi)
+* Download [Spark Ar Studio](https://sparkar.facebook.com/ar-studio/) and Open .arproj files
+* Use PSD's available in RAW_RESOURCES folder to generate Answers of your own
+* Replace corresponding files to make your own filter
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+ **Made with ❤ Nitish Gadangi**
