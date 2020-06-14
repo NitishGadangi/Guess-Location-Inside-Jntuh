@@ -11,10 +11,15 @@
 </p>
 
 #### AR Game Built on Spark AR to deploy on Instagram as Filter
+Each Instance a Random Clue will be popped up and User need to Guess the Location based on it.
 
-### 🏠 [Check out Cluesheet Here](https://nitishgadangi.github.io/QR_Hunt/)
+After 5 seconds of countdown Answer will be Displayed.
+
+All screens are trcacked on the User Face Co-ordinates as Face Tracking is Enabled.
 
 ### ✨ [Try the filter on Instagram](https://www.instagram.com/ar/787048095161541/)
+
+### 🏠 [Check out Cluesheet Here](https://nitishgadangi.github.io/QR_Hunt/)
 
 ### 📱 [Checkout Android App Version of This Game](https://github.com/NitishGadangi/QR_Hunt)
 
@@ -29,22 +34,13 @@
 
 ## How to Edit Files
 
-* Download [Spark Ar Studio]() and Open .arproj files
+* Download [Spark Ar Studio](https://sparkar.facebook.com/ar-studio/) and Open .arproj files
 * Use PSD's available in RAW_RESOURCES folder to generate Answers of your own
 * Replace corresponding files to make your own filter
-
-
-## Author
-
-👤 **Nitish Gadangi**
-
-* Website: https://nitishgadangi.github.io
-* Github: [@NitishGadangi](https://github.com/NitishGadangi)
-* LinkedIn: [@NitishGadangi](https://linkedin.com/in/NitishGadangi)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_Made with ❤️ by [Nitish Gadangi](https://nitishgadangi.github.io)_
+
+ **Made with ❤ Nitish Gadangi**
