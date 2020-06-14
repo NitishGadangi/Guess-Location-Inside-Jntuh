@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to Guess the Location AR Game 👋</h1>
+<img alt="LOGO" align="center" height="250" src="https://github.com/NitishGadangi/Guess-Location-Inside-Jntuh/blob/master/logo.jpg?raw=true" />
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="adsasd" target="_blank">
@@ -9,29 +10,35 @@
   </a>
 </p>
 
-> AR Game Built on Spark AR to deploy on Instagram as Filter
+#### AR Game Built on Spark AR to deploy on Instagram as Filter
 
-### 🏠 [Homepage](hdslkdjs)
+### 🏠 [Check out Cluesheet Here](https://nitishgadangi.github.io/QR_Hunt/)
 
-### ✨ [Demo](adsdsa)
+### ✨ [Try the filter on Instagram](https://www.instagram.com/ar/787048095161541/)
 
-## Install
+### 📱 [Checkout Android App Version of This Game](https://github.com/NitishGadangi/QR_Hunt)
 
-```sh
-Download SPARK AR and Open .arproj file to proceed
-```
+## Screenshots
+<table>
+    <tr>
+     <td><kbd><img src="./screenshots/one.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/two.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/three.jpeg"></kbd></td>
+    </tr>
+</table>
 
-## Usage
+## How to Edit Files
 
-```sh
-Try on instagram filters
-```
+* Download [Spark Ar Studio]() and Open .arproj files
+* Use PSD's available in RAW_RESOURCES folder to generate Answers of your own
+* Replace corresponding files to make your own filter
+
 
 ## Author
 
 👤 **Nitish Gadangi**
 
-* Website: nitishgadangi.github.io
+* Website: https://nitishgadangi.github.io
 * Github: [@NitishGadangi](https://github.com/NitishGadangi)
 * LinkedIn: [@NitishGadangi](https://linkedin.com/in/NitishGadangi)
 
@@ -40,4 +47,4 @@ Try on instagram filters
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_Made with ❤️ by [Nitish Gadangi](https://nitishgadangi.github.io)_
