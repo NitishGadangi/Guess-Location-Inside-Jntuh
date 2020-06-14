@@ -32,6 +32,10 @@ All screens are trcacked on the User Face Co-ordinates as Face Tracking is Enabl
     </tr>
 </table>
 
+## Patch Editor
+Here is an blockview of Filter Backend Code
+![](https://github.com/NitishGadangi/Guess-Location-Inside-Jntuh/blob/master/patch_editor.PNG?raw=true)
+
 ## How to Edit Files
 
 * Download [Spark Ar Studio](https://sparkar.facebook.com/ar-studio/) and Open .arproj files
