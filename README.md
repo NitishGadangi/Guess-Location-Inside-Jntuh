@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Guess the Location AR Game 👋</h1>
+<h1>Welcome to Guess the Location AR Game 👋</h1>
 <img alt="LOGO" align="center" height="250" src="https://github.com/NitishGadangi/Guess-Location-Inside-Jntuh/blob/master/logo.jpg?raw=true" />
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
