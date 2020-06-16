@@ -39,8 +39,9 @@ Here is an blockview of Filter Backend Code
 ## How to Edit Files
 
 * Download [Spark Ar Studio](https://sparkar.facebook.com/ar-studio/) and Open .arproj files
-* Use PSD's available in RAW_RESOURCES folder to generate Answers of your own
-* Replace corresponding files to make your own filter
+* Use PSD's available in RAW_RESOURCES folder as templetes to generate Questions and Answers based on your requirements
+* Replace corresponding files in Spark AR project to make your own filter
+* Make changes to patch editors if required
 
 ## Show your support
 
