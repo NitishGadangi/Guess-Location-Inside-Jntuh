@@ -19,7 +19,7 @@ All screens are trcacked on the User Face Co-ordinates as Face Tracking is Enabl
 
 ### ✨ [Try the filter on Instagram](https://www.instagram.com/ar/787048095161541/)
 
-### 🏠 [Check out Cluesheet Here](https://nitishgadangi.github.io/QR_Hunt/)
+### 🏠 [Check out the Cluesheet Here](https://nitishgadangi.github.io/QR_Hunt/)
 
 ### 📱 [Checkout Android App Version of This Game](https://github.com/NitishGadangi/QR_Hunt)
 
